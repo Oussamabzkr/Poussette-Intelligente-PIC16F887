@@ -49,6 +49,5 @@ Master's in Embedded Systems and Robotics (Systèmes Embarqués et Robotiques)
 * **Fattachi Imane**
 * **Hassan Abdoulaye Acyl**
 * **Hamza Ait Taleb**
-
-**Supervised by:** Prof. Hamid El Moumen  
+  
 **Institution:** Université Abdelmalek Essaadi - FST Al Hoceima
