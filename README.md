@@ -48,6 +48,6 @@ Master's in Embedded Systems and Robotics (Systèmes Embarqués et Robotiques)
 * **Bouzakoura Oussama**
 * **Fattachi Imane**
 * **Hassan Abdoulaye Acyl**
-* **Hamza Ait Taleb**
+* **Ait Taleb Hamza**
   
 **Institution:** Université Abdelmalek Essaadi - FST Al Hoceima
