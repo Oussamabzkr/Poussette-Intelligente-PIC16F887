@@ -31,7 +31,7 @@ This project aims to solve the physical constraints of conventional strollers by
 * **IDE:** MPLAB X IDE (Programmed in Assembly / ASM)
 * **Simulation:** Proteus ISIS Design Suite
 * **Communication Protocols Used:**
-* * **I2C:** For MPU6050 to PIC16F887 communication.
+ * **I2C:** For MPU6050 to PIC16F887 communication.
   * **UART:** For HC-12 wireless radio communication.
 * **PWM:** For precise motor speed control via the L293D.
 
